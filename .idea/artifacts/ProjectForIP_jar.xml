@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectForIP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectForIP_jar</output-path>
+    <root id="archive" name="ProjectForIP.jar">
+      <element id="module-output" name="ProjectForIP" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/ru/ancient/jackson-databind-2.13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/ru/ancient/jackson-core-2.13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/ru/ancient/jackson-annotations-2.13.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
